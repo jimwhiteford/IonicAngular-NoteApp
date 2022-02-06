@@ -8,4 +8,4 @@ This application was learnt from  https://ionicacademy.com/ and incorparates the
 The following third party assets/libraries are in use for this application.
 
 * Firebase: https://firebase.google.com/
-* 
+
